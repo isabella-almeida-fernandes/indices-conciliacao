@@ -42,7 +42,6 @@ O estudo utiliza dados oficiais extraídos dos relatórios **"Justiça em Númer
 ├── docs/                      # Apresentação de slides da banca e monografia em PDF
 │   ├── Apresentacao.pdf       # Slides oficiais utilizados na defesa
 │   └── tcc_isabella_almeida.pdf # Texto completo da monografia
-├── notebooks/                 # Códigos em Python da análise estatística
-│   └── analise_conciliacao.ipynb
-├── README.md                  # Documentação do projeto
-└── requirements.txt           # Dependências do ambiente Python
+├── notebook/                 # Códigos em Python da análise estatística
+│   └── analise_conciliacao.ipynb                
+└── README.md          # Documentação do projeto
